@@ -1,12 +1,9 @@
 # Site settings
 title: TW Tech Contest
 email: your-email@domain.com
-baseurl: "/tech-contest" # the subpath of your site, e.g. /blog/
-url: "http://evan-leee.github.io" # the base hostname & protocol for your site
+baseurl: "/tw-tech-contest"
+url: "http://tw-tech-contest.github.io"
 copyright: '&copy; 2015-2016 Smart Material Theme'
 
 # Build settings
 markdown: kramdown
-
-# Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
