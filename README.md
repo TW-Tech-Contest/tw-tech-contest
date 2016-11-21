@@ -1,8 +1,3 @@
-Jekyll theme
-=========================
-
-Slick Material Design theme for [Jekyll](https://jekyllrb.com/) powered by [Material Design Lite v.1.2.1](https://getmdl.io/components/index.html).
-
 ## 使用方法
  - 在_posts文件夹下创建新的post。 post都为markdown格式，具体模板如下:
 ```
@@ -36,7 +31,7 @@ Slick Material Design theme for [Jekyll](https://jekyllrb.com/) powered by [Mate
  模板可以修改，可以添加自己想要的field
  
 ## Demo
-[模板连接](https://evan-leee.github.io/tech-contest)
+[模板连接](https://tw-tech-contest.github.io/tw-tech-contest)
 
 ## 本地的启服务的方式
  - 安装好jekyll后 在文件目录下执行 `jekyll serve --baseurl '' `可以在本地`4000`端口查看模板内容
