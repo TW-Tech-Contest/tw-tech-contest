@@ -3,7 +3,7 @@ layout: post
 title: "React Most"
 type: SOFTWARE
 uri: 2016/11/14/react-most.html
-members: [欧阳继超]
+members: [欧阳继超, 铁鄢可]
 image: [9_23_flow.dot.png]
 description: 一个纯函数，声明式，响应式，Monadic的 React 状态容器
 ---

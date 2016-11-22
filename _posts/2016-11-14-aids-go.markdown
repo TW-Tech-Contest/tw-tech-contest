@@ -3,7 +3,7 @@ layout: post
 title: "Aids Go"
 type: IOT
 uri: 2016/11/14/aids-go.html
-members: [董莹]
+members: [董莹，陈东，撷嘉，闫煜，张举凯]
 image: [8_23_Screen Shot 2016-11-06 at 11.35.40 PM.png,8_23_Screen Shot 2016-11-06 at 11.36.47 PM.png]
 description: 根据求助者的位置，系统会通知附近区域内的所有志愿者，志愿者可选择前往救助或拒绝，并且可以联系物业以及求救者的紧急联系人。
 ---
