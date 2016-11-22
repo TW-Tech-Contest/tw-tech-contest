@@ -7,6 +7,9 @@ members: [欧阳继超, 铁鄢可]
 image: [9_23_flow.dot.png]
 description: 一个纯函数，声明式，响应式，Monadic的 React 状态容器
 ---
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <h2>作品描述：</h2>
 
 <!-- Place this tag where you want the button to render. -->
@@ -26,6 +29,3 @@ description: 一个纯函数，声明式，响应式，Monadic的 React 状态�
 
 [CodeBase]: https://github.com/reactive-react/react-most
 [MainPage]: https://github.com/reactive-react/react-most
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
