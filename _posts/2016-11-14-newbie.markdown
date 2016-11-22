@@ -2,6 +2,7 @@
 layout: post
 title: "Newbie"
 type: SOFTWARE
+uri: 2016/11/14/newbie.html
 members: [安凯航]
 image: [6_23_Binary-Trading-Newbie.png]
 description: 基于 Azure Cognitive Service 的人脸/情绪/视觉分析应用

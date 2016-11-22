@@ -2,6 +2,7 @@
 layout: post
 title: "智能开关"
 type: IOT
+uri: 2016/11/14/smart-light-control.html
 members: [崔娇,芮青华]
 image: [7_23_Screen Shot 2016-11-04 at 3.15.09 PM.png]
 description: 智能开关是一个远程家居（目前只是涉及到灯）控制应用

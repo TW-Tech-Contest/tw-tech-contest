@@ -2,6 +2,7 @@
 layout: post
 title: "小白"
 type: IOT
+uri: 2016/11/14/little-white.html
 members: [尚家明]
 image: [3_23_xiaobai.jpg]
 description: 小白是你贴身的情绪专家，她能检测你的心率、血压的变化，判断出你当前的情绪，当你愤怒时她会给你友好的提醒

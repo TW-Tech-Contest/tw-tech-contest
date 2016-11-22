@@ -128,3 +128,12 @@ pre {
 .float-right {
   float: right;
 }
+
+.disqus-comment-count {
+  display: inline-block;
+  vertical-align: top;
+  overflow: hidden;
+  font-weight: normal;
+  width: 12px;
+  white-space: nowrap;
+}

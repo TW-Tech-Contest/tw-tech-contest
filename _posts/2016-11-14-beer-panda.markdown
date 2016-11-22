@@ -2,6 +2,7 @@
 layout: post
 title: "BeerPanda"
 type: HARDWARE
+uri: 2016/11/14/beer-panda.html
 members: [张清波]
 image: [2_23_Screen Shot 2016-11-02 at 13.03.38.png,2_23_Screen Shot 2016-11-02 at 13.03.32.png,2_23_Screen Shot 2016-11-02 at 13.03.26.png]
 description: 一个简易的物联网出酒系统，该系统利用8266芯片通过MQTT协议来智能控制电磁阀搭配流量计来达到自动计量出酒目的

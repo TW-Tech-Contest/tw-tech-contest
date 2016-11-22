@@ -2,6 +2,7 @@
 layout: post
 title: "R-Pact"
 type: SOFTWARE
+uri: 2016/11/14/r-pact.html
 members: [周婧]
 image: [4_23_Screen Shot 2016-11-03 at 2.49.56 PM.png, 4_23_Screen Shot 2016-11-03 at 2.50.33 PM.png]
 description: 这个工具使得微服务测试中测试与管理一体化，在执行测试的过程中获得API原型，在线即时生成API文档
