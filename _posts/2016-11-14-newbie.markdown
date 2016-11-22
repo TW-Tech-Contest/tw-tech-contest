@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Newbie"
-type: SOFTWARE
+type: APPLICATION
 uri: 2016/11/14/newbie.html
 members: [安凯航]
 image: [6_23_Binary-Trading-Newbie.png]

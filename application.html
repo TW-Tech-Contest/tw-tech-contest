@@ -4,7 +4,7 @@ layout: default
 
 <div class="mdl-grid">
     {% for post in site.posts %}
-        {% if post.type == "SHADOW" %}
+        {% if post.type == "APPLICATION" %}
             <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block" data-type="{{post.type}}">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <div class="post-card mdl-shadow--2dp">

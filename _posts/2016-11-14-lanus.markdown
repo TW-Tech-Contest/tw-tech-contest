@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Lanus"
-type: SOFTWARE
+type: APPLICATION
 uri: 2016/11/14/lanus.html
 members: [严嘉阳]
 image: [10_23_WechatIMG1078.jpeg, 10_23_Screen Shot 2016-11-11 at 3.03.34 PM.png, 10_23_WechatIMG1080.jpeg]

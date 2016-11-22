@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Face VPN"
-type: SOFTWARE
+type: APPLICATION
 uri: 2016/11/14/face-vpn.html
 members: [安凯航]
 image: [5_23_face vpn.png]
