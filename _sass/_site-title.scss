@@ -13,4 +13,7 @@
     color: #2f51ff;
     box-shadow: none;
   }
+  &:first-child {
+    padding-left: 0;
+  }
 }
