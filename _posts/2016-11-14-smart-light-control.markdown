@@ -4,7 +4,7 @@ title: "智能开关"
 type: IOT
 uri: 2016/11/14/smart-light-control.html
 members: [崔娇,张清波,芮青华,孙晶晶,王振璇]
-image: [smart_switch_home_page,smart_switch_detail_page.png]
+image: [smart_switch_home_page.png,smart_switch_detail_page.png]
 description: 智能开关是一个远程家居（目前只是涉及到灯）控制应用
 ---
 <h2>作品描述：</h2>
@@ -19,5 +19,5 @@ description: 智能开关是一个远程家居（目前只是涉及到灯）控�
 
 [作品主页][MainPage] [代码链接][CodeBase]
 
-    [CodeBase]: https://github.com/cuijiao/smart-light-control
-    [MainPage]: https://smart-light-control.herokuapp.com/
+[CodeBase]: https://github.com/cuijiao/smart-light-control
+[MainPage]: https://smart-light-control.herokuapp.com/
