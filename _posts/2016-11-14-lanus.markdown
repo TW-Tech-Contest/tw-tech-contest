@@ -3,7 +3,7 @@ layout: post
 title: "Project Lanus"
 type: APPLICATION
 uri: 2016/11/14/lanus.html
-members: [严嘉阳]
+members: [冯博, 袁慎健, 王卫波, 高媛, 严嘉阳]
 image: [10_23_WechatIMG1078.jpeg, 10_23_Screen Shot 2016-11-11 at 3.03.34 PM.png, 10_23_WechatIMG1080.jpeg]
 description: 一种非接触的用户认证解决方案
 ---
