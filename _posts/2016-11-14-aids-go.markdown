@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aids Go"
+title: "全民救援"
 type: IOT
 uri: 2016/11/14/aids-go.html
 members: [董莹，陈东，颉嘉，阎昱，张举凯]
