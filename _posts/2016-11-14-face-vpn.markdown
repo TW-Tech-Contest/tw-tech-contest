@@ -3,7 +3,7 @@ layout: post
 title: "Face VPN"
 type: APPLICATION
 uri: 2016/11/14/face-vpn.html
-members: [安凯航, 惠坤, 王正坤, 罗磊]
+members: [安凯航, 惠坤, 王正坤, 罗磊, 陈越]
 image: [5_23_face vpn.png]
 description: Face VPN 在一键脚本的基础上, 对信息进行加密, 并用人脸+表情作为验证条件。彻底避免了安全风险的同时, 使用起来比一键脚本更加的方便流畅。
 ---

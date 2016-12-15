@@ -3,7 +3,7 @@ layout: post
 title: "全民救援"
 type: IOT
 uri: 2016/11/14/aids-go.html
-members: [董莹，陈东，颉嘉，阎昱，张举凯]
+members: [董莹，陈东，撷嘉，阎昱，张举凯]
 image: [aidsgo2.png, aidsgo1.png, aidsgo3.png, aidsgo4.png, aidsgo5.png, aidsgo6.png]
 description: 根据求助者的位置，系统会通知附近区域内的所有志愿者，志愿者可选择前往救助或拒绝，并且可以联系物业以及求救者的紧急联系人。
 ---

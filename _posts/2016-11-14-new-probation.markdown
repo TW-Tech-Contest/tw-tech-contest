@@ -3,9 +3,9 @@ layout: post
 title: "New Probation"
 type: SHADOW
 uri: 2016/11/14/new-probation.html
-members: [金晶]
+members: [金晶, 孙菁, 周奕星]
 image: [12_23_Interview __.png,12_23_New Hire Landing Page.png,12_23_View New Hire.png]
-description: 根据求助者的位置，系统会通知附近区域内的所有志愿者，志愿者可选择前往救助或拒绝，并且可以联系物业以及求救者的紧急联系人。
+description: 公司正在使用的Probation系统（TA Probation)主要用于新员工试用期期间的管理和考核，涉及Interview ++, probation,orientation等一系列的管理活动。
 ---
 <h2>作品描述：</h2>
 

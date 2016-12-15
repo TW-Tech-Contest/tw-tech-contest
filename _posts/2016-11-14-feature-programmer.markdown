@@ -3,7 +3,7 @@ layout: post
 title: "来自22世纪的程序员"
 type: APPLICATION
 uri: 2016/11/14/feature-programmer.html
-members: [韩翼]
+members: [韩翼, 张东东ß]
 image: [11_23_1.png,11_23_2.png,11_23_5.png]
 description: C22是一个基于PC+Cardboard的微情境应用
 ---
